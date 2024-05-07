@@ -34,10 +34,8 @@ Welcome to my digital playground! I'm Muhammad Noor Ul Ain, a passionate full-st
 
 <p style='padding: 0px;'>
   <p> Backend:
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-8DD6F9?style=flat-square&logo=ruby-on-rails&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-B7178C?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
 <p>
