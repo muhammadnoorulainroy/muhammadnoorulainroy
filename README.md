@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Noor Ul Ain</h1>
-<h3 align="center">A Full Stack Software Engineer from Pakistan.</h3>
+<h3 align="center">A Full Stack Software Engineer.</h3>
 
 # Introduction
 
