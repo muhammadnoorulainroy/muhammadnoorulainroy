@@ -10,7 +10,7 @@ Welcome to my digital playground! I'm Muhammad Noor Ul Ain, a passionate full-st
 
 - 📫 How to reach me **muhammadnoorulain2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JSxVLD441SelKcV8X6vbZm9tOs8bfFQA/view?usp=sharing](https://drive.google.com/file/d/1JSxVLD441SelKcV8X6vbZm9tOs8bfFQA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/192iFFYl1t9fnj8gAkIEzQDbHDXfpEsGF/view?usp=sharing)
 
 - ⚡ Fun fact **I have been a state level badminton player.**
 
