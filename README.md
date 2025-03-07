@@ -3,7 +3,7 @@
 
 # Introduction
 
-Welcome to my digital playground! I'm Muhammad Noor Ul Ain, a full-stack software engineer with over 5 years of experience armed with a Silver Medal from COMSATS University Islamabad. Crafting code that brings ideas to life is my forte, and I'm here to share my journey through the ever-evolving world of technology.
+I'm Muhammad Noor Ul Ain, a full-stack software engineer with over 5 years of experience armed with a Silver Medal from COMSATS University Islamabad. Crafting code that brings ideas to life is my forte, and I'm here to share my journey through the ever-evolving world of technology.
 <br />
 
 - 💬 Ask me about **react, node, next, nest, ruby, angular**
